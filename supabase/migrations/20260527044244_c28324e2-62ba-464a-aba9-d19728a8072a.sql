@@ -1,0 +1,1 @@
+UPDATE public.leads SET client_id = 'Alkan' WHERE client_id IS NULL;
