@@ -1,0 +1,10 @@
+# Alkan Assistant
+
+> Asistente operativo remoto para contratistas en Washington State. Bids, materiales, permisos, financiamiento y back-office bajo esquema 1099.
+
+Alkan Assistant ayuda a contratistas latinos en Washington a ganar más bids, manejar permisos y materiales, y mantener su back-office al día sin contratar personal interno.
+
+## Pages
+
+- [Inicio](/): Servicios, paquetes, testimoniales y estimador con IA.
+- [Blog](/blog): Guías prácticas sobre L&I, W-8BEN, bids, Sales Tax y herramientas con IA para contratistas en WA.

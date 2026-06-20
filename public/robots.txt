@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /auth
+Disallow: /hunter
+Disallow: /api/
+
+Sitemap: https://alkanassistant.com/sitemap.xml
